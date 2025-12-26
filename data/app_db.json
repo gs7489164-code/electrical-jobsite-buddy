@@ -9,7 +9,15 @@
       "materials_have": [],
       "to_buy": [],
       "photos": [],
-      "notes": ""
+      "notes": "",
+      "section_photos": {
+        "what_to_do": [],
+        "materials": [],
+        "to_buy": [],
+        "notes": [],
+        "general": []
+      }
     }
-  }
+  },
+  "app_version": "v0.7.0 (Planned Pack)"
 }
